@@ -9,6 +9,8 @@
 ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝ ╚═╝   ╚══╝ ╚══════╝ ╚══════╝ ╚═╝  ╚═╝
 ```
 
+[![asciicast](https://asciinema.org/a/9uYbHxn0acq5NC20.svg)](https://asciinema.org/a/9uYbHxn0acq5NC20)
+
 A slick Kubernetes TUI browser built with [Bubble Tea v2](https://charm.land/bubbletea/v2),
 [Bubbles v2](https://charm.land/bubbles/v2), and [Lip Gloss v2](https://charm.land/lipgloss/v2).
 
