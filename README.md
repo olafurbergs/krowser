@@ -28,6 +28,22 @@ workloads, and manage port-forwards — all from your terminal.
 - **Themes** — 10 color themes, selectable with `T` or `--theme`, with the selection persisted across runs
 - **Extras** — toast notifications, focus blur, help overlay
 
+## Demo
+
+A ~45s walkthrough recording showing a `kind` cluster being browsed with krowser:
+resource tables, syntax-highlighted live logs, YAML detail, theme switching, and the
+CPU/memory gauges.
+
+```sh
+asciinema play docs/krowser-demo.cast
+```
+
+The cast is also ready to upload for an embedded player:
+
+```sh
+asciinema upload docs/krowser-demo.cast
+```
+
 ## Requirements
 
 - Go 1.25+ (the `go 1.25` directive triggers an automatic toolchain download on 1.21+)
